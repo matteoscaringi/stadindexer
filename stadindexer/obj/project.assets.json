@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Solutions\\stadindexer\\stadindexer\\stadindexer.csproj",
+      "projectUniqueName": "C:\\Users\\Matteo\\Desktop\\stadindexer\\stadindexer\\stadindexer.csproj",
       "projectName": "stadindexer",
-      "projectPath": "F:\\Solutions\\stadindexer\\stadindexer\\stadindexer.csproj",
+      "projectPath": "C:\\Users\\Matteo\\Desktop\\stadindexer\\stadindexer\\stadindexer.csproj",
       "packagesPath": "C:\\Users\\Matteo\\.nuget\\packages\\",
-      "outputPath": "F:\\Solutions\\stadindexer\\stadindexer\\obj\\",
+      "outputPath": "C:\\Users\\Matteo\\Desktop\\stadindexer\\stadindexer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Matteo\\AppData\\Roaming\\NuGet\\NuGet.Config",

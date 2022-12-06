@@ -1,0 +1,15 @@
+C:\Users\Matteo\Desktop\stadindexer\stadindexer\bin\Debug\net6.0\stadindexer.exe
+C:\Users\Matteo\Desktop\stadindexer\stadindexer\bin\Debug\net6.0\stadindexer.deps.json
+C:\Users\Matteo\Desktop\stadindexer\stadindexer\bin\Debug\net6.0\stadindexer.runtimeconfig.json
+C:\Users\Matteo\Desktop\stadindexer\stadindexer\bin\Debug\net6.0\stadindexer.dll
+C:\Users\Matteo\Desktop\stadindexer\stadindexer\bin\Debug\net6.0\stadindexer.pdb
+C:\Users\Matteo\Desktop\stadindexer\stadindexer\obj\Debug\net6.0\stadindexer.csproj.AssemblyReference.cache
+C:\Users\Matteo\Desktop\stadindexer\stadindexer\obj\Debug\net6.0\stadindexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matteo\Desktop\stadindexer\stadindexer\obj\Debug\net6.0\stadindexer.AssemblyInfoInputs.cache
+C:\Users\Matteo\Desktop\stadindexer\stadindexer\obj\Debug\net6.0\stadindexer.AssemblyInfo.cs
+C:\Users\Matteo\Desktop\stadindexer\stadindexer\obj\Debug\net6.0\stadindexer.csproj.CoreCompileInputs.cache
+C:\Users\Matteo\Desktop\stadindexer\stadindexer\obj\Debug\net6.0\stadindexer.dll
+C:\Users\Matteo\Desktop\stadindexer\stadindexer\obj\Debug\net6.0\refint\stadindexer.dll
+C:\Users\Matteo\Desktop\stadindexer\stadindexer\obj\Debug\net6.0\stadindexer.pdb
+C:\Users\Matteo\Desktop\stadindexer\stadindexer\obj\Debug\net6.0\stadindexer.genruntimeconfig.cache
+C:\Users\Matteo\Desktop\stadindexer\stadindexer\obj\Debug\net6.0\ref\stadindexer.dll
